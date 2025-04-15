@@ -1,8 +1,11 @@
 #pragma once
-#include <cstdio>
-#include <cstring>
+//include <cstdio>
+//include <cstring>
 
 class Car {
+private:
+
+
 protected:
 	int speed;						// 속도 (private)
 	char name[40];					// 이름 (private)
