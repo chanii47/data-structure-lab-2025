@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\Drowsy\Documents\data-structure-lab-2025\Homework\x64\Debug\FirstHomework.exe</FullPath>
+=======
+      <FullPath>C:\Users\USER\Documents\202412590 박찬희\data-structure-lab-2025\Homework\x64\Debug\FirstHomework.exe</FullPath>
+>>>>>>> 89100a49931f1589bf67885cd8b6c9e194ed34c4
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
